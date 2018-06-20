@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-tesseract",
+  "version": "1.0.0",
+  "description": "use tesseractjs inside node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tesseractjs",
+    "node"
+  ],
+  "author": "fengde",
+  "license": "ISC",
+  "dependencies": {
+    "npm": "^6.1.0"
+  },
+  "devDependencies": {
+    "request": "^2.87.0",
+    "tesseract.js": "^1.0.10"
+  }
+}
